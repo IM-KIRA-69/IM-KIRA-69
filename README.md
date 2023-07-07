@@ -2,7 +2,7 @@
 <h3 align="center">JUST WANNA BE A PROFESSIONAL HACKER</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/e9ed829c3a0e1f4dea59d258e52f863582825fb693835ce81b2e1720fef3752b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4920414d2025323042414e474c414445534849202d2050524f4752414d4d45522d677265656e3f636f6c6f72413d25323366663030303026636f6c6f72423d253233303137653430267374796c653d666c61742d737175617265">
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=000000&width=300&height=80&lines=IM+KIRA-69;ITS+NOT+A+JUST+NAME+BRO;IT'S+A+BRAND;THANKS+YOU+EVERYONE+" alt="Typing SVG" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-kira-69" alt="im-kira-69" /></a> </p>
 
 - IM CURRENTLY WORKING ON **PRIVATE MISSION**
