@@ -1,8 +1,9 @@
 <h1 align="center">HI IM KIRA</h1>
 <h3 align="center">JUST WANNA BE A PROFESSIONAL HACKER</h3>
 
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966">
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/1mwdqr51emcAAAAM/test-typing.gif">
+<img align="right" alt="coding" width="250" src="https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966">
+<img align="right" alt="coding" width="250" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+<img align="right" alt="coding" width="250" src="https://media.tenor.com/1mwdqr51emcAAAAM/test-typing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-kira-69&label=Profile%20views&color=0e75b6&style=flat" alt="im-kira-69" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-kira-69" alt="im-kira-69" /></a> </p>
